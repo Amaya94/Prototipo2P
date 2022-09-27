@@ -1,0 +1,16 @@
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\bin\Debug\EjecutadorPrototipo2P.exe.config
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\bin\Debug\EjecutadorPrototipo2P.exe
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\bin\Debug\EjecutadorPrototipo2P.pdb
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\bin\Debug\Capa Vista.dll
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\bin\Debug\Capa Vista.pdb
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\obj\Debug\EjecutadorPrototipo2P.csproj.AssemblyReference.cache
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\obj\Debug\EjecutadorPrototipo2P.Properties.Resources.resources
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\obj\Debug\EjecutadorPrototipo2P.csproj.GenerateResource.cache
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\obj\Debug\EjecutadorPrototipo2P.csproj.CoreCompileInputs.cache
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\obj\Debug\EjecutadorPrototipo2P.csproj.CopyComplete
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\obj\Debug\EjecutadorPrototipo2P.exe
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\obj\Debug\EjecutadorPrototipo2P.pdb
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\bin\Debug\CapaControlador.dll
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\bin\Debug\CapaModelo.dll
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\bin\Debug\CapaControlador.pdb
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\EjecutadorPrototipo2P\EjecutadorPrototipo2P\bin\Debug\CapaModelo.pdb
