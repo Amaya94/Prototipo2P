@@ -1,0 +1,5 @@
+C:\Users\Melany\source\repos\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Melany\source\repos\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Melany\source\repos\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Melany\source\repos\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Melany\source\repos\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
