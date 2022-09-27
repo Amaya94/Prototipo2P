@@ -4,3 +4,17 @@ C:\Users\Melany\source\repos\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.csproj.
 C:\Users\Melany\source\repos\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.csproj.CoreCompileInputs.cache
 C:\Users\Melany\source\repos\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.dll
 C:\Users\Melany\source\repos\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.pdb
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\bin\Debug\Capa Vista.dll
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\bin\Debug\Capa Vista.pdb
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\bin\Debug\CapaControlador.dll
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\bin\Debug\CapaControlador.pdb
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.csproj.AssemblyReference.cache
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.csproj.CoreCompileInputs.cache
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.csproj.CopyComplete
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.dll
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.pdb
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa_Vista.Contenedor.resources
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa Vista.csproj.GenerateResource.cache
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa_Vista.Inventarios.resources
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\bin\Debug\CapaModelo.dll
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\bin\Debug\CapaModelo.pdb
