@@ -30,10 +30,16 @@ namespace Capa_Vista
 
         private void GuardarDatos(string codigoProducto, string nombreProducto, string codigoLinea, string codigoMarca, string existenciaProducto, string estatusProducto)
         {
-            Ccontrolador crud = new Ccontrolador();
-            crud.ingresardatos(codigoProducto, nombreProducto, codigoLinea, codigoMarca, existenciaProducto, estatusProducto, emp);
-            LimpiarTBox(txtCodigoP, txtNombreP, TxtCodigoL, TxtCodigoM, TxtExistenciaP, TxtEstatusP);
-            
+            CapaControlador.Ccontrolador crud = new CapaControlador.Ccontrolador(); 
+            bool resultado = crud.Ingresardatos( codigoProducto,nombreProducto,codigoLinea,codigoMarca,existenciaProducto,estatusProducto);
+
+            if (resultado)
+
+            {
+                MessageBox.Show("Datos guardados");
+            }
+
+
         }
 
         private void tabPage1_Click(object sender, EventArgs e)
@@ -64,7 +70,8 @@ namespace Capa_Vista
 
         private void btn_guardar_Click(object sender, EventArgs e)
         {
-            String codigoProducto, nombreProducto, codigoLinea, codigoMarca, existenciaProducto, estatusProducto;
+            String codigoProducto, nombreProducto, codigoLinea, codigoMarca, estatusProducto;
+            String existenciaProducto;
             codigoProducto = txtCodigoP.Text.ToString();
             nombreProducto = txtNombreP.Text.ToString();
             codigoLinea = TxtCodigoL.Text.ToString();

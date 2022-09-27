@@ -18,3 +18,4 @@ C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vist
 C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa_Vista.Inventarios.resources
 C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\bin\Debug\CapaModelo.dll
 C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\bin\Debug\CapaModelo.pdb
+C:\Users\Melany\Desktop\Segundo Examen Parcial\Prototipo2P\Prototipo2P\Capa Vista\obj\Debug\Capa_Vista.Compra.resources
